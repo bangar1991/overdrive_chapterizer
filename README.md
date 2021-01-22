@@ -1,3 +1,5 @@
+# Moved to [overdrive-chapterizer](https://github.com/oczkoisse/overdrive-chapterizer)
+
 # Overdrive Chapterizer
 
 Audiobooks downloaded from Overdrive in MP3 format have ID3 tags that describe chapter information.
